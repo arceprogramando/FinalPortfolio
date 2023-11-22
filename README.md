@@ -1,6 +1,6 @@
 # Portfolio Felipe Arce (arceprogramando)
 
-[![Portada Felipe Arce](https://github.com/arceprogramando/FinalPortfolio/tree/main/public/portada.png)](https://github.com/arceprogramando)
+[![Portada Felipe Arce](https://github.com/arceprogramando/FinalPortfolio/blob/main/public/portada.png)](https://github.com/arceprogramando)
 
 ### Como seguir estructura de commits a futuro
 
